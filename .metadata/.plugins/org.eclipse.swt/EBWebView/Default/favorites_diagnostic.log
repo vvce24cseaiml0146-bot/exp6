@@ -1,0 +1,48 @@
+2026-04-24 04:02:20.042: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 04:32:38.596: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 04:37:26.566: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 04:38:05.116: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 04:41:30.860: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 04:43:04.041: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 04:44:50.480: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 04:46:57.302: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 04:48:51.615: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 04:58:47.647: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:00:37.358: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:02:05.388: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:02:29.892: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:03:00.635: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:03:05.373: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:04:05.981: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:04:27.685: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:04:56.351: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:07:35.614: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:10:31.734: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:12:20.355: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:13:25.079: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:24:33.092: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:27:53.521: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:29:59.395: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:31:12.623: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:34:07.318: [INFO] OnDoneLoading sync enabled: 0
+2026-04-30 05:44:05.820: [INFO] OnDoneLoading sync enabled: 0
+2026-11-02 04:01:10.118: [INFO] CurrentProfilePath: C:\Users\student\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-02 04:01:10.118: [INFO] Profiles total count: 1
+2026-11-02 04:01:10.118: [INFO] Profile: name=Profile 1 path=C:\Users\student\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-04-30T04:35:29.817Z
+2026-11-02 04:01:10.118: [INFO] LastUsedProfileDir: C:\Users\student\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-02 04:01:10.118: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\student\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-04-30T04:35:29.817Z
+2026-11-02 04:01:10.118: [INFO] OnDoneLoading sync enabled: 0
+2026-11-02 04:01:10.118: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-02 04:01:10.118: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-02 04:01:10.118: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-02 04:19:44.001: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-02 04:52:16.906: [INFO] CurrentProfilePath: C:\Users\student\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-02 04:52:16.906: [INFO] Profiles total count: 1
+2026-11-02 04:52:16.906: [INFO] Profile: name=Profile 1 path=C:\Users\student\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-04-30T04:35:29.817Z
+2026-11-02 04:52:16.906: [INFO] LastUsedProfileDir: C:\Users\student\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-02 04:52:16.906: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\student\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-04-30T04:35:29.817Z
+2026-11-02 04:52:16.906: [INFO] OnDoneLoading sync enabled: 0
+2026-11-02 04:52:16.906: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-02 04:52:16.906: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-02 04:52:16.906: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-02 04:56:13.860: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
